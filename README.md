@@ -18,4 +18,5 @@ of this model to be exaclty the same as K-NN :).
 
 Unfortunately, I am not in college yet and work in a bike shop, so I have no-one to ask questions of or talk to about these
 kinds of problems, and carefully worded questions on forums also tend to lack in helpful replies.  If you have any
-criticism or comments, please email me at samgrassii@protonmail.com.
+criticism or comments of the model, I would greatly appreciate your feedback.  Feel free to email me at 
+samgrassii@protonmail.com.
